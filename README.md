@@ -15,11 +15,10 @@
 
 ## Team members:
 
-1. Rajashree Chakraborty
-2. Manish Tiwari
-3. Md. Naushad Ahamed
-4. Sunil sahu
-5. Shahrukh
+1. Shayan Azeem
+2. Vedansh Gupta
+3. Shanu Ahamad
+4. Shivangi Agnihotri
 
 ## Project Details:
 MyFitnessPal is a smartphone app and website that tracks diet and exercise. This is a MERN full stack collaborative project which is a clone of the [myFitnessPal.com](https://www.myfitnesspal.com/) website.
