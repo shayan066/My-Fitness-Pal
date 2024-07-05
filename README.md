@@ -27,7 +27,7 @@ This project is in under development. Each of us had shared work and responsibil
 
 **Original website link**: https://www.myfitnesspal.com/
 
-**Link of our deployed project**: https://myfitnesspal-clone.netlify.app/
+**Link of our deployed project**: https://silver-paprenjak-7c59be.netlify.app/
 
 # Features and functionalities
 
